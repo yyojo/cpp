@@ -56,7 +56,7 @@ Any line that has a hash sign at the start is a preprocessor directive. Include 
 #include "main.hpp"!
 
 ```
-[image](https://user-images.githubusercontent.com/98479568/163424773-cf0ef56e-53ed-4603-bc2c-7952c29913d8.png)
+![image](https://user-images.githubusercontent.com/98479568/163424773-cf0ef56e-53ed-4603-bc2c-7952c29913d8.png)
 
 The double qoutes means we try to insert a file from the current directory, and if it is not there then look in the directory where all the standard libraries are stored.
 

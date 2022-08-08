@@ -2,7 +2,6 @@ C++ Fundamentals
 =================
 
 ## Table of Contents
-----
 
 * [Basics](#basics)
   * [Program Structure](#program-structure)
